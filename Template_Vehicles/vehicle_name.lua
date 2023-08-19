@@ -1,5 +1,5 @@
 local entries = {
-    { "gameName", "Name To Display In Game" }
+    { "bati901", "Bati 901" }
 }
 
 for _, entry in ipairs(entries) do
