@@ -1,4 +1,4 @@
-# FiveM_add-on_vehicle_template
+# FiveM - Template Add-on Vehicle
 Template for add vehicles to your FiveM server
 
 [List of "data files" if you need to](https://docs.fivem.net/docs/game-references/data-files/)
